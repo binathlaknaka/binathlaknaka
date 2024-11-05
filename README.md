@@ -1,16 +1,42 @@
-## Hi there 👋
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
-<!--
-**binathlaknaka/binathlaknaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I?
 
-Here are some ideas to get you started:
+<div align item='left'>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  ```python
+
+  class WhoAmI:
+    user = 'Binath Laknaka'
+	current_edu = "NSBM"
+    currently_learning = "Javascript && React"
+    fun_fact = "Call me LakiYa"
+	hobbies = [
+				'Gaming',
+                        'Coding',
+			 	'Designing',
+				'Photograpy'
+			]
+	
+	def getCity():
+		return Colombo()
+	
+	def Ambitions():
+		BecomeSoftwareEngineer()
+		FinishMyProjects()
+	
+ ```
+</div>
+
+ 
+
+ 
+## Github Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=binathlaknaka&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=binathlaknaka&theme=blueberry_duo"/>
+|---|---|
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binathlaknaka&layout=compact&theme=github_dark"/>|
+
+## Programming Languages
+
