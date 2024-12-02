@@ -1,6 +1,5 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
-
 ## Who am I?
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Binath+Laknaka;Full+stack+web+developer...;UI+/+UX+Enthusiast...;Active+Open+Source+Contributor..."/>
